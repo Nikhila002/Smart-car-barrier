@@ -1,5 +1,8 @@
 # Smart-car-barrier
 An IoT module that is used to monitor the vehicles automatically. This hardware module is developed using the Arduino, Ultrasonic Sensor and the Servo motor.
+code is mentioned below:-
+
+
 
 #include<Servo.h>
 Servo myservo;
